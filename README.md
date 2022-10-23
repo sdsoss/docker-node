@@ -1,5 +1,9 @@
 # docker-nodejs
 
+## Stack
+
+Node v16
+
 ## Install
 
 Run : `docker build . -t sdsos/nodejs`
