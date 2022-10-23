@@ -1,9 +1,8 @@
 FROM node:16-alpine
 
-USER node
+USER root
 RUN npm install --global nodemon
 
-USER root
 RUN mkdir -p /var/www
 
 EXPOSE 8080
