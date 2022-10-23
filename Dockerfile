@@ -1,7 +1,7 @@
 FROM node:16-alpine
 
 USER root
-RUN npm install --global nodemon
+RUN yarn add global nodemon
 
 RUN mkdir -p /var/www
 
