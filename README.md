@@ -1,4 +1,4 @@
-# docker-nodejs
+# docker-node
 
 ## Stack
 
@@ -6,7 +6,7 @@ Node v16
 
 ## Install
 
-Run : `docker build . -t sdsos/nodejs`
+Run : `docker build . -t sdsos/node`
 
 ## License
 
